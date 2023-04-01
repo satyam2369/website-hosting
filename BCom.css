@@ -1,0 +1,132 @@
+body{
+    background-image: url("https://igu.ac.in/2021/wp-content/uploads/comm-768x576.jpg");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    
+    
+}
+#input{
+    
+    height: 2.2rem;
+    width: 29%;
+    margin-top: 5rem;
+    margin-left: 23.5rem;
+    padding-left: 20rem;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #c0e606,0 0 30px #039d15;
+    background-color: rgb(3, 3, 3);
+    color: rgb(255, 255, 255);
+    transition: 0.5s;
+    border: 1px solid yellow;
+    font-size: 0.9rem;
+
+}
+#input:hover{
+    height: 2.5rem;
+    width: 30.5%;
+    margin-top: 4.85rem;
+    padding-left: 20rem;
+    margin-left: 23rem;
+    box-shadow: 0 0 20px #c0e606,0 0 40px #039d15;
+    font-size: 1.1rem;
+    background-color: rgb(8, 8, 8);
+    
+}
+#Box{
+    background-color: aliceblue;
+    margin-top: 25rem;
+    margin-left: 40rem;
+    width: 40rem;
+}
+#button{
+    margin-left: 40.5rem;
+    margin-top: 1rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 5px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    box-shadow: 0 0 10px #f5ff62,0 0 20px #02d2a9;
+    transition: 0.5s;
+    background-color: rgb(139, 139, 139);
+    color: rgb(43, 43, 43);
+    border: 1px solid rgba(255, 195, 155, 0.763);
+    width: 14rem;
+    font-size: 0.82rem;
+    display: block;
+    
+    
+}
+#button:hover{
+    background-color: rgb(205, 205, 205);
+    width: 15rem;
+    height: 3rem;
+    margin-top: 0.9rem;
+    box-shadow: 0 0 20px #f5ff62,0 0 40px #02d2a9;
+    color: rgb(16, 16, 16);
+    margin-left: 40rem;
+    font-size: 0.88rem;
+    
+}
+#table{
+    color: rgb(20, 19, 19);
+    /* visibility: hidden; */
+    margin-left: 21rem;
+    /* background-color: rgb(98, 89, 89) ; */
+    background-image: radial-gradient(rgb(126, 247, 206),rgb(181, 255, 181),rgb(255, 255, 162) );
+    margin-top: 4rem;
+    border: 3px solid black;
+    border-radius: 8px;
+    visibility: hidden;
+    
+    
+}
+.heading_tag{
+    padding: 0.4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border: 2px solid black;
+    border-radius: 4px;
+    
+    
+}
+td{
+    border: 1px solid black;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    border-radius: 4px;
+
+}
+#reset{
+    margin-left: 40.5rem;
+    margin-top: 1rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 5px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    box-shadow: 0 0 10px #f5ff62,0 0 20px #02d2a9;
+    transition: 0.5s;
+    background-color: rgb(139, 139, 139);
+    color: rgb(43, 43, 43);
+    border: 1px solid rgba(255, 195, 155, 0.763);
+    width: 14rem;
+    font-size: 0.82rem;
+    display: block;
+}
+#reset:hover{
+    background-color: rgb(205, 205, 205);
+    width: 15rem;
+    height: 3rem;
+    margin-top: 0.9rem;
+    box-shadow: 0 0 20px #f5ff62,0 0 40px #02d2a9;
+    color: rgb(16, 16, 16);
+    margin-left: 40rem;
+    font-size: 0.88rem;
+    
+
+}
